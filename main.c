@@ -1,4 +1,8 @@
 /* Convert 1-bit GIMP .h file to GLCD-compatible bitmap .h-file.
+
+   In essence it does the same as Michael Margolis's glcdBitmap sketch,
+   however this program is written from scratch without looking at his code.
+
    Author: Kristian Gunstone
 
    This program is free software: you can redistribute it and/or modify
